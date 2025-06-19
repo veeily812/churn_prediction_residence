@@ -3,7 +3,7 @@
 This project implements a customer churn prediction model using logistic regression. It utilizes customer data to predict whether a customer will churn or stay with the company. The notebook includes data preprocessing, feature encoding, model training, evaluation, and basic visualization.
 
 
-## 🔍 Problem Statement
+ ## 🔍 Problem Statement
 
 Customer churn is a critical metric for businesses in competitive markets. The goal of this project is to build a machine learning model that predicts whether a customer will churn based on their demographic, service usage, and account-related features.
 
@@ -26,9 +26,9 @@ Customer churn is a critical metric for businesses in competitive markets. The g
 
 To run this notebook, install the following Python libraries:
 
-```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
-📊 Model Used
+
+## 📊 Model Used
 Logistic Regression
 
 Chosen for its interpretability and performance on binary classification tasks.
@@ -53,17 +53,18 @@ print(confusion_matrix(y_test, y_pred))
 print(classification_report(y_test, y_pred))
 print("Accuracy:", accuracy_score(y_test, y_pred)
 
-📊 Visualization
+
+## 📊 Visualization
 The notebook includes a horizontal bar chart of feature importances (coefficients) to help interpret which variables most influence churn prediction.
 
-👩‍💻 Author
+## 👩‍💻 Author
 Vivian Phung
 Email: phungvi08123@gmail.com
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-💡 Future Work
+## 💡 Future Work
 Add more ML models for comparison (e.g., Random Forest, XGBoost)
 Use cross-validation and grid search for hyperparameter tuning
 Deploy the model as an API
