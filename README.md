@@ -2,13 +2,6 @@
 
 This project implements a customer churn prediction model using logistic regression. It utilizes customer data to predict whether a customer will churn or stay with the company. The notebook includes data preprocessing, feature encoding, model training, evaluation, and basic visualization.
 
-## 📁 Project Structure
-
-├── Churn Prediction Residence.ipynb
-├── data/
-│ └── customer_churn.csv (if available)
-├── README.md
-
 
 ## 🔍 Problem Statement
 
