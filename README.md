@@ -19,6 +19,7 @@ Customer churn is a critical metric for businesses in competitive markets. The g
   - Classification Report
   - Accuracy Score
 - Feature importance visualization via bar chart
+<img width="785" alt="Screenshot 2025-07-09 at 15 42 43" src="https://github.com/user-attachments/assets/3602b7af-a7f5-4ad2-8d1f-ea7e558b105c" />
 
 ---
 
