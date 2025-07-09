@@ -60,11 +60,6 @@ The notebook includes a horizontal bar chart of feature importances (coefficient
 Vivian Phung
 Email: phungvi08123@gmail.com
 
-## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 💡 Future Work
-Use cross-validation and grid search for hyperparameter tuning
-Deploy the model as an API
-
-Let me know if you'd like it in `.md` format or want a version adapted for GitHub Pages.
+- Use cross-validation and grid search for hyperparameter tuning
+- Deploy the model as an API
